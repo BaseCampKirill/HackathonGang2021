@@ -1,4 +1,4 @@
 # HackathonGang2021
 ## RecyclePoint
 
-Out bot will keep your city greep and clean!
+Our bot will keep your city green and clean!
