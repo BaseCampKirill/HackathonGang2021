@@ -1,0 +1,30 @@
+{
+  "name": "HackathonGang2021",
+  "version": "1.0.0",
+  "description": "Wassup",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaseCampKirill/HackathonGang2021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaseCampKirill/HackathonGang2021/issues"
+  },
+  "homepage": "https://github.com/BaseCampKirill/HackathonGang2021#readme",
+  "dependencies": {
+    "lowdb": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "node-telegram-bot-api": "0.53.0",
+    "telegraf": "^4.3.0"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
