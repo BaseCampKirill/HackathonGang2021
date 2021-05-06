@@ -1,4 +1,4 @@
 # HackathonGang2021
-RecyclePoint
+## RecyclePoint
 
 Out bot will keep your city greep and clean!
